@@ -1,0 +1,32 @@
+extends: default.yaml
+# New outputs live under artifacts/comparison/classical and predictions/comparison/classical.
+zoo:
+  output_name: classical
+  enabled: [M0, M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11, M12, M13, M14, similarity, M16, M17]
+  ensemble_members: [M0, M4, M7, M9, M10]
+  ensemble_alphas: [0.25, 0.5, 0.75]
+  max_correlation: 0.98
+  selection:
+    enabled: true
+    k: 50
+    weights: [0.0, 0.25, 0.5]
+    pool_size: null
+  grids:
+    M9: {n_estimators: [200], max_depth: [3, 5], min_samples_leaf: [2], positive_weight: [1, 10]}
+    M10: {n_estimators: [200], max_depth: [3, 5], min_samples_leaf: [2], positive_weight: [1, 10]}
+    M11: {n_estimators: [200], max_depth: [2, 3], learning_rate: [0.05], positive_weight: [1, 10]}
+    M12: {n_estimators: [200], max_depth: [3], num_leaves: [7], learning_rate: [0.05], positive_weight: [1, 10]}
+    M13: {n_estimators: [200], max_depth: [3, 5], min_samples_leaf: [2], positive_weight: [1, 10]}
+    M14: {C: [0.1, 1.0], positive_weight: [1, 10], max_train_rows: [10000], max_kernel_mb: [768]}
+development_overrides:
+  models:
+    C: [0.1]
+    positive_weight: [1]
+  zoo:
+    grids:
+      M9: {n_estimators: [16], max_depth: [3], min_samples_leaf: [2], positive_weight: [1]}
+      M10: {n_estimators: [16], max_depth: [3], min_samples_leaf: [2], positive_weight: [1]}
+      M11: {n_estimators: [16], max_depth: [2], learning_rate: [0.05], positive_weight: [1]}
+      M12: {n_estimators: [16], max_depth: [3], num_leaves: [7], learning_rate: [0.05], positive_weight: [1]}
+      M13: {n_estimators: [16], max_depth: [3], min_samples_leaf: [2], positive_weight: [1]}
+      M14: {C: [0.1], positive_weight: [1], max_train_rows: [10000], max_kernel_mb: [768]}

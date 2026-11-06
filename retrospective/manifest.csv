@@ -1,0 +1,4 @@
+"ID","name","versionNumber","contentType","dataFileSizeBytes","createdBy","createdOn","modifiedBy","modifiedOn","parentId","synapseURL","dataFileMD5Hex"
+"syn78461816","retrospective_leaderboard_set.csv","1","text/csv","16405","1791131","1793529582289","1791131","1793529582289","syn77897840","https://www.synapse.org/#!Synapse:syn78461816.1","dc3fa4e36c29c7cd82c7236e92eff5ae"
+"syn77901162","retrospective_revealed_labels.csv","1","text/csv","373280","1791131","1791542738668","1791131","1791542738668","syn77897840","https://www.synapse.org/#!Synapse:syn77901162.1","470533959ac0427504e71042231cbf9b"
+"syn77901163","retrospective_split_nolabels.csv","1","text/csv","9985325","1791131","1791542739078","1791131","1791542739078","syn77897840","https://www.synapse.org/#!Synapse:syn77901163.1","43d5f11f644893d77704d0c9aa38f5c8"

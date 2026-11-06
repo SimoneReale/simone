@@ -1,0 +1,264 @@
+{"time": "2026-11-05 16:58:57,737", "level": "INFO", "logger": "dreamq.features", "message": "Extracting features for 184640 unique structures"}
+{"time": "2026-11-05 16:59:17,498", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 1024 / 184640"}
+{"time": "2026-11-05 16:59:34,622", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 2048 / 184640"}
+{"time": "2026-11-05 16:59:51,008", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 3072 / 184640"}
+{"time": "2026-11-05 17:00:06,340", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 4096 / 184640"}
+{"time": "2026-11-05 17:00:22,339", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 5120 / 184640"}
+{"time": "2026-11-05 17:00:39,053", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 6144 / 184640"}
+{"time": "2026-11-05 17:00:55,983", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 7168 / 184640"}
+{"time": "2026-11-05 17:01:11,845", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 8192 / 184640"}
+{"time": "2026-11-05 17:01:28,651", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 9216 / 184640"}
+{"time": "2026-11-05 17:01:44,812", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 10240 / 184640"}
+{"time": "2026-11-05 17:02:01,227", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 11264 / 184640"}
+{"time": "2026-11-05 17:02:17,435", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 12288 / 184640"}
+{"time": "2026-11-05 17:02:34,233", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 13312 / 184640"}
+{"time": "2026-11-05 17:02:49,278", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 14336 / 184640"}
+{"time": "2026-11-05 17:03:05,973", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 15360 / 184640"}
+{"time": "2026-11-05 17:03:22,461", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 16384 / 184640"}
+{"time": "2026-11-05 17:03:39,079", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 17408 / 184640"}
+{"time": "2026-11-05 17:03:54,953", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 18432 / 184640"}
+{"time": "2026-11-05 17:04:12,284", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 19456 / 184640"}
+{"time": "2026-11-05 17:04:29,009", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 20480 / 184640"}
+{"time": "2026-11-05 17:04:46,167", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 21504 / 184640"}
+{"time": "2026-11-05 17:05:02,793", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 22528 / 184640"}
+{"time": "2026-11-05 17:05:19,997", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 23552 / 184640"}
+{"time": "2026-11-05 17:05:35,485", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 24576 / 184640"}
+{"time": "2026-11-05 17:05:52,725", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 25600 / 184640"}
+{"time": "2026-11-05 17:06:07,683", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 26624 / 184640"}
+{"time": "2026-11-05 17:06:25,810", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 27648 / 184640"}
+{"time": "2026-11-05 17:06:43,017", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 28672 / 184640"}
+{"time": "2026-11-05 17:06:58,548", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 29696 / 184640"}
+{"time": "2026-11-05 17:07:15,044", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 30720 / 184640"}
+{"time": "2026-11-05 17:07:31,441", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 31744 / 184640"}
+{"time": "2026-11-05 17:07:47,547", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 32768 / 184640"}
+{"time": "2026-11-05 17:08:04,161", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 33792 / 184640"}
+{"time": "2026-11-05 17:08:20,333", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 34816 / 184640"}
+{"time": "2026-11-05 17:08:36,809", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 35840 / 184640"}
+{"time": "2026-11-05 17:08:53,369", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 36864 / 184640"}
+{"time": "2026-11-05 17:09:09,155", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 37888 / 184640"}
+{"time": "2026-11-05 17:09:26,000", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 38912 / 184640"}
+{"time": "2026-11-05 17:09:44,031", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 39936 / 184640"}
+{"time": "2026-11-05 17:10:01,214", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 40960 / 184640"}
+{"time": "2026-11-05 17:10:18,474", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 41984 / 184640"}
+{"time": "2026-11-05 17:10:35,584", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 43008 / 184640"}
+{"time": "2026-11-05 17:10:52,511", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 44032 / 184640"}
+{"time": "2026-11-05 17:11:08,928", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 45056 / 184640"}
+{"time": "2026-11-05 17:11:25,897", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 46080 / 184640"}
+{"time": "2026-11-05 17:11:41,853", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 47104 / 184640"}
+{"time": "2026-11-05 17:12:01,938", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 48128 / 184640"}
+{"time": "2026-11-05 17:12:18,498", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 49152 / 184640"}
+{"time": "2026-11-05 17:12:35,084", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 50176 / 184640"}
+{"time": "2026-11-05 17:12:50,563", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 51200 / 184640"}
+{"time": "2026-11-05 17:13:06,768", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 52224 / 184640"}
+{"time": "2026-11-05 17:13:21,454", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 53248 / 184640"}
+{"time": "2026-11-05 17:13:36,876", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 54272 / 184640"}
+{"time": "2026-11-05 17:13:51,869", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 55296 / 184640"}
+{"time": "2026-11-05 17:14:06,986", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 56320 / 184640"}
+{"time": "2026-11-05 17:14:22,259", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 57344 / 184640"}
+{"time": "2026-11-05 17:14:37,736", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 58368 / 184640"}
+{"time": "2026-11-05 17:14:53,459", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 59392 / 184640"}
+{"time": "2026-11-05 17:15:10,210", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 60416 / 184640"}
+{"time": "2026-11-05 17:15:26,183", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 61440 / 184640"}
+{"time": "2026-11-05 17:15:42,671", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 62464 / 184640"}
+{"time": "2026-11-05 17:15:57,887", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 63488 / 184640"}
+{"time": "2026-11-05 17:16:13,435", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 64512 / 184640"}
+{"time": "2026-11-05 17:16:29,126", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 65536 / 184640"}
+{"time": "2026-11-05 17:16:44,773", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 66560 / 184640"}
+{"time": "2026-11-05 17:17:00,524", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 67584 / 184640"}
+{"time": "2026-11-05 17:17:16,799", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 68608 / 184640"}
+{"time": "2026-11-05 17:17:32,803", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 69632 / 184640"}
+{"time": "2026-11-05 17:17:48,353", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 70656 / 184640"}
+{"time": "2026-11-05 17:18:04,576", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 71680 / 184640"}
+{"time": "2026-11-05 17:18:20,172", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 72704 / 184640"}
+{"time": "2026-11-05 17:18:35,494", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 73728 / 184640"}
+{"time": "2026-11-05 17:18:51,404", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 74752 / 184640"}
+{"time": "2026-11-05 17:19:06,806", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 75776 / 184640"}
+{"time": "2026-11-05 17:19:22,770", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 76800 / 184640"}
+{"time": "2026-11-05 17:19:38,638", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 77824 / 184640"}
+{"time": "2026-11-05 17:19:55,443", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 78848 / 184640"}
+{"time": "2026-11-05 17:20:12,696", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 79872 / 184640"}
+{"time": "2026-11-05 17:20:29,399", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 80896 / 184640"}
+{"time": "2026-11-05 17:20:45,387", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 81920 / 184640"}
+{"time": "2026-11-05 17:21:02,187", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 82944 / 184640"}
+{"time": "2026-11-05 17:21:18,863", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 83968 / 184640"}
+{"time": "2026-11-05 17:21:37,404", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 84992 / 184640"}
+{"time": "2026-11-05 17:21:55,912", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 86016 / 184640"}
+{"time": "2026-11-05 17:22:13,050", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 87040 / 184640"}
+{"time": "2026-11-05 17:22:29,905", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 88064 / 184640"}
+{"time": "2026-11-05 17:22:46,378", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 89088 / 184640"}
+{"time": "2026-11-05 17:23:02,613", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 90112 / 184640"}
+{"time": "2026-11-05 17:23:18,978", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 91136 / 184640"}
+{"time": "2026-11-05 17:23:33,029", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 92160 / 184640"}
+{"time": "2026-11-05 17:23:50,021", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 93184 / 184640"}
+{"time": "2026-11-05 17:24:07,580", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 94208 / 184640"}
+{"time": "2026-11-05 17:24:23,470", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 95232 / 184640"}
+{"time": "2026-11-05 17:24:38,224", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 96256 / 184640"}
+{"time": "2026-11-05 17:24:53,440", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 97280 / 184640"}
+{"time": "2026-11-05 17:25:10,183", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 98304 / 184640"}
+{"time": "2026-11-05 17:25:24,677", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 99328 / 184640"}
+{"time": "2026-11-05 17:25:41,679", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 100352 / 184640"}
+{"time": "2026-11-05 17:25:58,587", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 101376 / 184640"}
+{"time": "2026-11-05 17:26:16,761", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 102400 / 184640"}
+{"time": "2026-11-05 17:26:31,372", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 103424 / 184640"}
+{"time": "2026-11-05 17:26:47,872", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 104448 / 184640"}
+{"time": "2026-11-05 17:27:03,502", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 105472 / 184640"}
+{"time": "2026-11-05 17:27:19,308", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 106496 / 184640"}
+{"time": "2026-11-05 17:27:34,882", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 107520 / 184640"}
+{"time": "2026-11-05 17:27:51,236", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 108544 / 184640"}
+{"time": "2026-11-05 17:28:05,820", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 109568 / 184640"}
+{"time": "2026-11-05 17:28:21,011", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 110592 / 184640"}
+{"time": "2026-11-05 17:28:36,338", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 111616 / 184640"}
+{"time": "2026-11-05 17:28:56,478", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 112640 / 184640"}
+{"time": "2026-11-05 17:29:15,918", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 113664 / 184640"}
+{"time": "2026-11-05 17:29:31,988", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 114688 / 184640"}
+{"time": "2026-11-05 17:29:48,060", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 115712 / 184640"}
+{"time": "2026-11-05 17:30:04,081", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 116736 / 184640"}
+{"time": "2026-11-05 17:30:19,039", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 117760 / 184640"}
+{"time": "2026-11-05 17:30:36,226", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 118784 / 184640"}
+{"time": "2026-11-05 17:30:52,820", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 119808 / 184640"}
+{"time": "2026-11-05 17:31:09,755", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 120832 / 184640"}
+{"time": "2026-11-05 17:31:30,640", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 121856 / 184640"}
+{"time": "2026-11-05 17:31:47,095", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 122880 / 184640"}
+{"time": "2026-11-05 17:32:04,038", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 123904 / 184640"}
+{"time": "2026-11-05 17:32:21,275", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 124928 / 184640"}
+{"time": "2026-11-05 17:32:37,497", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 125952 / 184640"}
+{"time": "2026-11-05 17:32:54,401", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 126976 / 184640"}
+{"time": "2026-11-05 17:33:12,554", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 128000 / 184640"}
+{"time": "2026-11-05 17:33:31,997", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 129024 / 184640"}
+{"time": "2026-11-05 17:33:49,782", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 130048 / 184640"}
+{"time": "2026-11-05 17:34:07,707", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 131072 / 184640"}
+{"time": "2026-11-05 17:34:23,832", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 132096 / 184640"}
+{"time": "2026-11-05 17:34:39,961", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 133120 / 184640"}
+{"time": "2026-11-05 17:34:56,246", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 134144 / 184640"}
+{"time": "2026-11-05 17:35:11,284", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 135168 / 184640"}
+{"time": "2026-11-05 17:35:29,582", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 136192 / 184640"}
+{"time": "2026-11-05 17:35:46,913", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 137216 / 184640"}
+{"time": "2026-11-05 17:36:02,987", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 138240 / 184640"}
+{"time": "2026-11-05 17:36:17,253", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 139264 / 184640"}
+{"time": "2026-11-05 17:36:31,289", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 140288 / 184640"}
+{"time": "2026-11-05 17:36:47,522", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 141312 / 184640"}
+{"time": "2026-11-05 17:37:03,810", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 142336 / 184640"}
+{"time": "2026-11-05 17:37:21,897", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 143360 / 184640"}
+{"time": "2026-11-05 17:37:38,995", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 144384 / 184640"}
+{"time": "2026-11-05 17:37:54,496", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 145408 / 184640"}
+{"time": "2026-11-05 17:38:09,372", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 146432 / 184640"}
+{"time": "2026-11-05 17:38:25,770", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 147456 / 184640"}
+{"time": "2026-11-05 17:38:40,496", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 148480 / 184640"}
+{"time": "2026-11-05 17:38:54,974", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 149504 / 184640"}
+{"time": "2026-11-05 17:39:09,616", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 150528 / 184640"}
+{"time": "2026-11-05 17:39:24,827", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 151552 / 184640"}
+{"time": "2026-11-05 17:39:39,642", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 152576 / 184640"}
+{"time": "2026-11-05 17:39:55,061", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 153600 / 184640"}
+{"time": "2026-11-05 17:40:11,180", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 154624 / 184640"}
+{"time": "2026-11-05 17:40:26,860", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 155648 / 184640"}
+{"time": "2026-11-05 17:40:40,652", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 156672 / 184640"}
+{"time": "2026-11-05 17:40:55,408", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 157696 / 184640"}
+{"time": "2026-11-05 17:41:15,457", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 158720 / 184640"}
+{"time": "2026-11-05 17:41:30,017", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 159744 / 184640"}
+{"time": "2026-11-05 17:41:45,115", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 160768 / 184640"}
+{"time": "2026-11-05 17:42:00,533", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 161792 / 184640"}
+{"time": "2026-11-05 17:42:15,006", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 162816 / 184640"}
+{"time": "2026-11-05 17:42:29,788", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 163840 / 184640"}
+{"time": "2026-11-05 17:42:45,840", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 164864 / 184640"}
+{"time": "2026-11-05 17:43:00,677", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 165888 / 184640"}
+{"time": "2026-11-05 17:43:17,502", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 166912 / 184640"}
+{"time": "2026-11-05 17:43:33,132", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 167936 / 184640"}
+{"time": "2026-11-05 17:43:48,286", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 168960 / 184640"}
+{"time": "2026-11-05 17:44:02,815", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 169984 / 184640"}
+{"time": "2026-11-05 17:44:16,655", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 171008 / 184640"}
+{"time": "2026-11-05 17:44:31,461", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 172032 / 184640"}
+{"time": "2026-11-05 17:44:48,379", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 173056 / 184640"}
+{"time": "2026-11-05 17:45:02,888", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 174080 / 184640"}
+{"time": "2026-11-05 17:45:18,607", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 175104 / 184640"}
+{"time": "2026-11-05 17:45:35,567", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 176128 / 184640"}
+{"time": "2026-11-05 17:45:51,397", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 177152 / 184640"}
+{"time": "2026-11-05 17:46:06,527", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 178176 / 184640"}
+{"time": "2026-11-05 17:46:22,807", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 179200 / 184640"}
+{"time": "2026-11-05 17:46:39,244", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 180224 / 184640"}
+{"time": "2026-11-05 17:46:53,365", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 181248 / 184640"}
+{"time": "2026-11-05 17:47:07,945", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 182272 / 184640"}
+{"time": "2026-11-05 17:47:24,036", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 183296 / 184640"}
+{"time": "2026-11-05 17:47:39,943", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 184320 / 184640"}
+{"time": "2026-11-05 17:47:45,135", "level": "INFO", "logger": "dreamq.features", "message": "Featurized 184640 / 184640"}
+{"time": "2026-11-05 17:50:38,358", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 1: train=0.90828 validation=0.69065"}
+{"time": "2026-11-05 17:52:50,057", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 2: train=0.63471 validation=0.55480"}
+{"time": "2026-11-05 17:55:12,781", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 3: train=0.54538 validation=0.48651"}
+{"time": "2026-11-05 17:57:26,702", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 4: train=0.49483 validation=0.44860"}
+{"time": "2026-11-05 17:59:39,451", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 5: train=0.46223 validation=0.42102"}
+{"time": "2026-11-05 18:01:52,213", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 6: train=0.43838 validation=0.40384"}
+{"time": "2026-11-05 18:04:08,399", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 7: train=0.42086 validation=0.38906"}
+{"time": "2026-11-05 18:06:19,779", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 8: train=0.40685 validation=0.37646"}
+{"time": "2026-11-05 18:08:33,195", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 9: train=0.39543 validation=0.36695"}
+{"time": "2026-11-05 18:10:39,487", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 10: train=0.38614 validation=0.36033"}
+{"time": "2026-11-05 18:12:54,024", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 11: train=0.37819 validation=0.35505"}
+{"time": "2026-11-05 18:15:20,888", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 12: train=0.37150 validation=0.34844"}
+{"time": "2026-11-05 18:17:50,777", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 13: train=0.36577 validation=0.34476"}
+{"time": "2026-11-05 18:20:06,307", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 14: train=0.36071 validation=0.34067"}
+{"time": "2026-11-05 18:22:23,055", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 15: train=0.35632 validation=0.33638"}
+{"time": "2026-11-05 18:24:49,675", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 16: train=0.35231 validation=0.33359"}
+{"time": "2026-11-05 18:27:03,112", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 17: train=0.34820 validation=0.33121"}
+{"time": "2026-11-05 18:29:20,607", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 18: train=0.34489 validation=0.32926"}
+{"time": "2026-11-05 18:31:40,135", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 19: train=0.34206 validation=0.32792"}
+{"time": "2026-11-05 18:34:05,528", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 20: train=0.33915 validation=0.32457"}
+{"time": "2026-11-05 18:36:21,984", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 21: train=0.33644 validation=0.32250"}
+{"time": "2026-11-05 18:38:40,654", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 22: train=0.33420 validation=0.32090"}
+{"time": "2026-11-05 18:40:48,100", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 23: train=0.33181 validation=0.31919"}
+{"time": "2026-11-05 18:43:05,594", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 24: train=0.32984 validation=0.31870"}
+{"time": "2026-11-05 18:45:30,539", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 25: train=0.32763 validation=0.31775"}
+{"time": "2026-11-05 18:47:56,704", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 26: train=0.32570 validation=0.31492"}
+{"time": "2026-11-05 18:50:11,836", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 27: train=0.32397 validation=0.31526"}
+{"time": "2026-11-05 18:52:19,756", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 28: train=0.32255 validation=0.31211"}
+{"time": "2026-11-05 18:54:27,100", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 29: train=0.32083 validation=0.31240"}
+{"time": "2026-11-05 18:56:47,677", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 30: train=0.31953 validation=0.31151"}
+{"time": "2026-11-05 18:58:55,193", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 31: train=0.31820 validation=0.31034"}
+{"time": "2026-11-05 19:01:13,930", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 32: train=0.31657 validation=0.30870"}
+{"time": "2026-11-05 19:03:27,196", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 33: train=0.31537 validation=0.30956"}
+{"time": "2026-11-05 19:05:44,385", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 34: train=0.31404 validation=0.30773"}
+{"time": "2026-11-05 19:08:02,449", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 35: train=0.31285 validation=0.30601"}
+{"time": "2026-11-05 19:10:20,074", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 36: train=0.31183 validation=0.30560"}
+{"time": "2026-11-05 19:12:38,310", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 37: train=0.31050 validation=0.30630"}
+{"time": "2026-11-05 19:15:13,261", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 38: train=0.30981 validation=0.30406"}
+{"time": "2026-11-05 19:17:44,438", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 39: train=0.30870 validation=0.30387"}
+{"time": "2026-11-05 19:20:14,954", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 40: train=0.30756 validation=0.30264"}
+{"time": "2026-11-05 19:22:35,772", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 41: train=0.30653 validation=0.30155"}
+{"time": "2026-11-05 19:24:51,685", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 42: train=0.30575 validation=0.30201"}
+{"time": "2026-11-05 19:27:15,228", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 43: train=0.30489 validation=0.30030"}
+{"time": "2026-11-05 19:29:30,541", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 44: train=0.30405 validation=0.30059"}
+{"time": "2026-11-05 19:31:43,903", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 45: train=0.30302 validation=0.30103"}
+{"time": "2026-11-05 19:34:01,569", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 46: train=0.30213 validation=0.29993"}
+{"time": "2026-11-05 19:36:21,055", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 47: train=0.30153 validation=0.29867"}
+{"time": "2026-11-05 19:38:38,043", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 48: train=0.30064 validation=0.29740"}
+{"time": "2026-11-05 19:41:04,857", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 49: train=0.29997 validation=0.29719"}
+{"time": "2026-11-05 19:43:23,369", "level": "INFO", "logger": "dreamq.pretraining", "message": "Pretraining epoch 50: train=0.29929 validation=0.29608"}
+{"time": "2026-11-05 19:43:30,254", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV stratified repetition=0 fold=0 train=5264 valid=1316"}
+{"time": "2026-11-05 19:44:28,685", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV stratified repetition=0 fold=1 train=5264 valid=1316"}
+{"time": "2026-11-05 19:45:12,442", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV stratified repetition=0 fold=2 train=5264 valid=1316"}
+{"time": "2026-11-05 19:45:48,108", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV stratified repetition=0 fold=3 train=5264 valid=1316"}
+{"time": "2026-11-05 19:46:32,025", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV stratified repetition=0 fold=4 train=5264 valid=1316"}
+{"time": "2026-11-05 19:47:15,227", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV stratified repetition=1 fold=0 train=5264 valid=1316"}
+{"time": "2026-11-05 19:48:14,318", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV stratified repetition=1 fold=1 train=5264 valid=1316"}
+{"time": "2026-11-05 19:49:06,115", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV stratified repetition=1 fold=2 train=5264 valid=1316"}
+{"time": "2026-11-05 19:49:50,165", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV stratified repetition=1 fold=3 train=5264 valid=1316"}
+{"time": "2026-11-05 19:50:32,810", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV stratified repetition=1 fold=4 train=5264 valid=1316"}
+{"time": "2026-11-05 19:51:13,613", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV stratified repetition=2 fold=0 train=5264 valid=1316"}
+{"time": "2026-11-05 19:51:45,053", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV stratified repetition=2 fold=1 train=5264 valid=1316"}
+{"time": "2026-11-05 19:52:23,418", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV stratified repetition=2 fold=2 train=5264 valid=1316"}
+{"time": "2026-11-05 19:53:03,570", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV stratified repetition=2 fold=3 train=5264 valid=1316"}
+{"time": "2026-11-05 19:53:53,487", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV stratified repetition=2 fold=4 train=5264 valid=1316"}
+{"time": "2026-11-05 19:58:17,792", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV scaffold repetition=0 fold=0 train=5263 valid=1317"}
+{"time": "2026-11-05 19:58:50,494", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV scaffold repetition=0 fold=1 train=5263 valid=1317"}
+{"time": "2026-11-05 19:59:26,898", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV scaffold repetition=0 fold=2 train=5265 valid=1315"}
+{"time": "2026-11-05 20:00:05,652", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV scaffold repetition=0 fold=3 train=5265 valid=1315"}
+{"time": "2026-11-05 20:00:59,415", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV scaffold repetition=0 fold=4 train=5264 valid=1316"}
+{"time": "2026-11-05 20:01:46,121", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV scaffold repetition=1 fold=0 train=5265 valid=1315"}
+{"time": "2026-11-05 20:02:20,389", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV scaffold repetition=1 fold=1 train=5263 valid=1317"}
+{"time": "2026-11-05 20:02:45,752", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV scaffold repetition=1 fold=2 train=5263 valid=1317"}
+{"time": "2026-11-05 20:03:15,801", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV scaffold repetition=1 fold=3 train=5265 valid=1315"}
+{"time": "2026-11-05 20:03:45,821", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV scaffold repetition=1 fold=4 train=5264 valid=1316"}
+{"time": "2026-11-05 20:04:18,779", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV scaffold repetition=2 fold=0 train=5263 valid=1317"}
+{"time": "2026-11-05 20:04:41,105", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV scaffold repetition=2 fold=1 train=5263 valid=1317"}
+{"time": "2026-11-05 20:05:07,138", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV scaffold repetition=2 fold=2 train=5265 valid=1315"}
+{"time": "2026-11-05 20:05:28,117", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV scaffold repetition=2 fold=3 train=5265 valid=1315"}
+{"time": "2026-11-05 20:05:54,181", "level": "INFO", "logger": "dreamq.cross_validation", "message": "Nested CV scaffold repetition=2 fold=4 train=5264 valid=1316"}
+{"time": "2026-11-05 20:09:37,902", "level": "INFO", "logger": "__main__", "message": "Evaluation results:\n  strategy      model  development       AP  ROC_AUC     EF@1%     EF@5%  recall@10  recall@50  recall@100  AP_fold_std  AP_CI_low  AP_CI_high\nstratified         M0        False 0.442940 0.919196 58.795649 15.384615   0.205128   0.564103    0.615385     0.154761   0.280471    0.631710\nstratified         M1        False 0.406131 0.917930 51.126651 16.410256   0.205128   0.487179    0.589744     0.165532   0.246275    0.597071\nstratified         M2        False 0.245208 0.886918 43.457653 12.307692   0.153846   0.307692    0.512821     0.169818   0.121773    0.401823\nstratified         M3        False 0.408095 0.923696 48.570319 16.410256   0.205128   0.461538    0.589744     0.164736   0.247834    0.595205\nstratified similarity        False 0.262072 0.904280 43.457653 13.333333   0.128205   0.410256    0.487179     0.116118   0.142687    0.428032\n  scaffold         M0        False 0.432028 0.908553 56.239316 15.384615   0.205128   0.512821    0.589744     0.132500   0.277206    0.606150\n  scaffold         M1        False 0.416639 0.916127 53.682984 14.871795   0.205128   0.538462    0.615385     0.136428   0.263463    0.595912\n  scaffold         M2        False 0.224601 0.892175 33.232323 10.769231   0.128205   0.333333    0.410256     0.132772   0.114547    0.384909\n  scaffold         M3        False 0.406368 0.914433 53.682984 14.871795   0.205128   0.512821    0.589744     0.137346   0.251316    0.583653\n  scaffold similarity        False 0.189503 0.897436 38.344988 12.820513   0.076923   0.384615    0.512821     0.106759   0.098804    0.347265"}
+{"time": "2026-11-05 20:10:54,285", "level": "INFO", "logger": "__main__", "message": "Final refit complete (development=False)"}

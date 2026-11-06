@@ -1,0 +1,81 @@
+project_root: ..
+data_dir: retrospective
+cache_dir: cache
+artifact_dir: artifacts
+prediction_dir: predictions
+seed: 2035
+threads: 2
+data:
+  manifest: manifest.csv
+  fail_on_conflicts: true
+  expected_leaderboard_rows: 300
+  labeled:
+    file: retrospective_revealed_labels.csv
+    id: CatalogID
+    smiles: RDKit_SMILES
+    label: Label
+  unlabeled:
+    file: retrospective_split_nolabels.csv
+    id: CatalogID
+    smiles: SMILES
+  leaderboard:
+    file: retrospective_leaderboard_set.csv
+    id: CatalogID
+    smiles: RDKit_SMILES
+features:
+  morgan_radius: 2
+  morgan_bits: 2048
+  pharmacophore_bits: 1024
+  n_jobs: 2
+pretraining:
+  mode: transductive
+  include_leaderboard: true
+  max_molecules: null
+  latent_dim: 128
+  batch_size: 512
+  learning_rate: 0.001
+  max_epochs: 50
+  patience: 7
+  validation_fraction: 0.1
+  dropout: 0.15
+  mask_probability: 0.15
+  bit_noise: 0.002
+  descriptor_noise: 0.05
+  positive_weight_cap: 100.0
+  descriptor_loss_weight: 1.0
+  device: auto
+models:
+  C: [0.01, 0.1, 1.0]
+  positive_weight: [1, 10, 20]
+  alpha: [0.0, 0.25, 0.5, 0.75, 1.0]
+  max_iter: 3000
+cv:
+  strategies: [stratified, scaffold]
+  folds: 5
+  repetitions: 3
+  inner_folds: 3
+  split_attempts: 30
+  bootstrap_samples: 1000
+metrics:
+  top_k: [10, 50, 100]
+  threshold: 0.5
+submission:
+  id_column: CatalogID
+  score_column: ActivityScore
+  unique_ids: true
+  file: submission.csv
+  diagnostic_file: leaderboard_diagnostics.csv
+development_overrides:
+  pretraining:
+    max_molecules: 1024
+    max_epochs: 2
+    patience: 2
+    batch_size: 128
+  cv:
+    folds: 2
+    repetitions: 1
+    inner_folds: 2
+    bootstrap_samples: 100
+  models:
+    C: [0.1]
+    positive_weight: [1, 10]

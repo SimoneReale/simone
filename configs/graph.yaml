@@ -1,0 +1,24 @@
+extends: comparison.yaml
+# Separate graph experiment; install .[graph] into the interpreter running it.
+# If changing RDKit versions, rerun every compared model under the same environment.
+zoo:
+  output_name: graph
+  enabled: [M15]
+  grids:
+    M15:
+      epochs: [30]
+      batch_size: [64]
+      hidden_dim: [200]
+      seeds: [[0, 1, 2, 3, 4]]
+      positive_weight: [1, 10]
+      device: [auto]
+development_overrides:
+  zoo:
+    grids:
+      M15:
+        epochs: [1]
+        batch_size: [64]
+        hidden_dim: [32]
+        seeds: [[0]]
+        positive_weight: [1]
+        device: [cpu]
